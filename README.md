@@ -22,13 +22,7 @@ Description: a version of the Chorus RF Laptimer compatible with Arduino boards 
 ### 6. [EdgeTX voices in Esperanto](https://github.com/FiorixF1/edgetx-tts-esperanto)  
 Description: audio files in Esperanto for EdgeTX transmitters.
 
-### 7. [OpenTX Lightweight laptimer](https://github.com/FiorixF1/opentx-laptimer-lightweight)  
-Description: simple laptimer running on the transmitter through a Lua script.
-
-### 8. [OpenTX laptimer](https://github.com/FiorixF1/opentx-laptimer)  
-Description: like the previous project, but with a few more functionalities.
-
-### 9. [Extended Liftoff Editor](https://github.com/FiorixF1/extended-liftoff-editor)  
+### 7. [Extended Liftoff Editor](https://github.com/FiorixF1/extended-liftoff-editor)  
 Description: desktop application that simplifies the building of complex tracks on Liftoff.
 
 ## 📜 About  
